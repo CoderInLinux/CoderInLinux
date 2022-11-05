@@ -15,7 +15,7 @@
 ## Contact Me
 
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://i.imgur.com/tNLdOPM.png" alt="Ren0zz#7777" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/990732300251713567" target="blank"><img align="center" src="https://i.imgur.com/tNLdOPM.png" alt="Ren0zz#7777" height="30" width="40" /></a>
 <a href="https://twitter.com/ren0zz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ren0zz1" height="30" width="40" /></a>
 <a href="hthttps://www.youtube.com/channel/UCYj3smzIcUL17AeMm5-eJmQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ren0zz" height="30" width="40" /></a>
 </p>
