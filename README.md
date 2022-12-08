@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 📁 Developing **VacanoBot** for my Discord Community
+- 📁 Developing Bots Of Discord
 - 📌 Ex Developer of Plugins of **Pocketmine-MP**
 - 🧠 Learning **TypeScript**, **JavaScript** and **GoLand**
 
