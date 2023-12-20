@@ -5,7 +5,8 @@
 ## About Me
 
 - High School Student
-- Learning **TypeScript**, **JavaScript** and **GoLand**
+- Study Computer Science at University and develop apps and games
+- Learning languages to develop video games and apps
 
 ## Lenguajes
 
