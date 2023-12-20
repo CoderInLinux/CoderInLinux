@@ -4,9 +4,8 @@
 
 ## About Me
 
-- 📁 Developing Bots Of Discord
-- 📌 Ex Developer of Plugins of **Pocketmine-MP**
-- 🧠 Learning **TypeScript**, **JavaScript** and **GoLand**
+- High School Student
+- Learning **TypeScript**, **JavaScript** and **GoLand**
 
 ## Lenguajes
 
