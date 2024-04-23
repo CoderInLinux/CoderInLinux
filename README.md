@@ -4,9 +4,11 @@
 
 ## About Me
 
-- High School Student
-- Study Computer Science at University and develop apps and games
-- Learning languages to develop video games and apps
+Hello, I am a high school student, I am currently not working.
+
+I am a person who likes to learn new things, I am currently learning Java and perfecting it since my goal is to be a Back-End developer. Much earlier, I programmed simple add-ons for the open source Minecraft Bedrock software Pocket-Mine and in my spare time I developed Discord bots in JavaScript. I'm going to dedicate myself professionally to this.
+
+I hope we see each other soon, and below I leave you some of my social networks in case you want to visit me!
 
 ## Lenguajes
 
