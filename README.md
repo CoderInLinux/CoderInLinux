@@ -4,7 +4,7 @@
 
 <img align="right" height="150" src="https://i.imgur.com/8zDzq3c.gif"  />
 
-###
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
