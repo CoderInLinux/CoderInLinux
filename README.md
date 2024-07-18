@@ -9,7 +9,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" height="30" alt="visualstudiocode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visual-studio-code/visual-studio-code-original.svg" height="30" alt="visual-studio-code logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
