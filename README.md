@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/8zDzq3c.gif"  />
+<img align="top" height="150" src="https://i.imgur.com/8zDzq3c.gif"  />
 
 ### Skills
 
