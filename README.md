@@ -16,7 +16,6 @@ Hello, I am a Coder, a person who likes to play video games, program and listen 
 ###
 
 <div align="left">
-  <a href="https://instagram.com/elx.dev"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> </a>
   <a href="https://www.twitch.tv/coderinlinux"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /> </a>
   <a href="https://discord.com/users/1058988510457102478"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> </a>
 </div>
