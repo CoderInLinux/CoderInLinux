@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/CoderInLinux">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,js,java,bots"/>
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,java"/>
   </a>
 </p>
 
