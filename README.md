@@ -6,7 +6,11 @@ Hello, I am a Coder, a person who likes to play video games, program and listen 
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,java,vsc)](https://skillicons.dev)
+## My Skills
+
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=ts,go,java,vsc)](https://skillicons.dev)
+</p>
 
 ###
 
