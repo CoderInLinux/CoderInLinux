@@ -4,14 +4,9 @@ Hello, I am a Coder, a person who likes to play video games, program and listen 
 
 <img align="top" height="150" src="https://i.imgur.com/8zDzq3c.gif"  />
 
-### Skills
+###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=ts,go,java,vsc)](https://skillicons.dev)
 
 ###
 
