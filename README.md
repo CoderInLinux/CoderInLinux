@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Coder</h2>
 
 <p align="center">
-  <h3>Hi, how are you? I'm <a href="https://coderinlinux.netlify.app/" target="blank_">Coder</a>, a Discord bot developer and Minecraft Java plugin developer at SpigotMC.<h3/>
+  <h5>Hi, how are you? I'm <a href="https://coderinlinux.netlify.app/" target="blank_">Coder</a>, a Discord bot developer and Minecraft Java plugin developer at SpigotMC.<h5/>
 </p>
 
 ###
