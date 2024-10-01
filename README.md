@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/CoderInLinux">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,fedora,linux,vscode,npm"/>
+    <img src="https://skillicons.dev/icons?i=git,github,idea,linux,vscode,npm"/>
   </a>
 </p>
 
