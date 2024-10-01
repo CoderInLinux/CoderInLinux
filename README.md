@@ -30,7 +30,7 @@ Hello, I am a Coder, a person who likes to play video games, program and listen 
 
 <p align="center">
   <a href="https://github.com/CoderInLinux">
-    <img src="https://skillicons.dev/icons?i=git,idea,linux,vscode,discord"/>
+    <img src="https://skillicons.dev/icons?i=git,github,idea,linux,vscode,discord"/>
   </a>
 </p>
 
