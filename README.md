@@ -36,6 +36,8 @@ Hello, I am a Coder, a person who likes to play video games, program and listen 
 
 ###
 
+## Social Networks
+
 <div align="center">
   <a href="https://x.com/coderinlinux">
     <img src="https://skillicons.dev/icons?i=twitter"/> 
@@ -44,9 +46,5 @@ Hello, I am a Coder, a person who likes to play video games, program and listen 
     <img src="https://skillicons.dev/icons?i=discord"/> 
   </a>
 </div>
-
-###
-
-<br clear="both">
 
 ###
