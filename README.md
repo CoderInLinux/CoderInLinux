@@ -2,7 +2,9 @@
 
 <h2 align="center">Hi, I'm Coder</h2>
 
-Hi, how are you? I'm **Coder**, a Discord bot developer and Minecraft Java plugin developer at SpigotMC.
+<p align="center">
+  Hi, how are you? I'm **Coder**, a Discord bot developer and Minecraft Java plugin developer at SpigotMC.
+</p>
 
 ###
 
