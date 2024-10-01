@@ -2,9 +2,7 @@
 
 <h2 align="center">Hi, I'm Coder</h2>
 
-Hello, I am a Coder, a person who likes to play video games, program and listen to music.
-
-<img align="top" height="150" src="https://i.imgur.com/8zDzq3c.gif"  />
+Hi, how are you? I'm **Coder**, a Discord bot developer and Minecraft Java plugin developer at SpigotMC.
 
 ###
 
