@@ -1,4 +1,6 @@
-<h2 align="left">Hi, I'm Coder</h2>
+###
+
+<h2 align="center">Hi, I'm Coder</h2>
 
 Hello, I am a Coder, a person who likes to play video games, program and listen to music.
 
