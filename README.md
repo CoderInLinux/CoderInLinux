@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Hi, I'm Coder</h2>
+<h2 align="left">Hi, I'm Coder</h2>
 
 <p align="center">
   <h5>Hi, how are you? I'm <a href="https://coderinlinux.netlify.app/" target="blank_">Coder</a>, a Discord bot developer and Minecraft Java plugin developer at SpigotMC.<h5/>
